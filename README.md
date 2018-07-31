@@ -19,30 +19,30 @@ Roadmap to becoming a web developer
 
 ### Backend
 * Frameworks
-** Yii
-** Symfony
-** Laravel
+  * Yii
+  * Symfony
+  * Laravel
 * composer
 
 ## Hard Skills
 * Менеджеры пакетов
 * DI/IoC
 * Паттерны программирования
-** Банда 4-х
+  * Банда 4-х
 * Алгоритмы
 * Парадигмы программирования
-** Императивная/Декларативная
+  * Императивная/Декларативная
 ** ООП
 ** Функциональное программирование
 * TDD
 * Tests
-** Unit
-** Integration
-** Acceptance
+  * Unit
+  * Integration
+  * Acceptance
 * Базовые
-** Сети
-** Комп
-** ОС
-*** Unix
-*** Console/bash
+  * Сети
+  * Комп
+  * ОС
+    * Unix
+    * Console/bash
 
