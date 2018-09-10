@@ -26,7 +26,7 @@ Roadmap to becoming a web developer
 * DataBases
   * Реляционные (MySQL, PostgreSql, MSSQL, Oracle)
   * Нереляционные Key-Value (Memcache, Redis)
-  * Нереляционные Документоориентированные (MongoDB)
+  * Нереляционные Документоориентированные (MongoDB, ElasticSearch)
   * Установка, Конфигурирование, Настрока скриптов Backup-Restore, Настрока репликации (Master-Master, Master-Slave)
   * Язык SQL
 * CI
