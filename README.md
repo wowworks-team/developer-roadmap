@@ -23,17 +23,15 @@ Roadmap to becoming a web developer
   * Symfony
   * Laravel
 * composer
-* DataBases
-  * Реляционные (MySQL, PostgreSql, MSSQL, Oracle)
-  * Нереляционные Key-Value (Memcache, Redis)
-  * Нереляционные Документоориентированные (MongoDB, ElasticSearch)
-  * Установка, Конфигурирование, Настройка скриптов Backup-Restore, Настройка репликации (Master-Master, Master-Slave)
+* Databases
   * Язык SQL
+  * Реляционные (MySQL, PostgreSql, MSSQL, Oracle)
+  * Нереляционные key-value (Memcache, Redis)
+  * Нереляционные документоориентированные (MongoDB, ElasticSearch)
+  * Установка, конфигурирование, настройка скриптов backup-restore, настройка репликации (master-master, master-slave)
 * Очереди
   * CRON
   * RabbitMQ
-* CI
-  * Jenkins
 
 ## Hard Skills
 * Менеджеры пакетов
@@ -56,4 +54,6 @@ Roadmap to becoming a web developer
   * ОС
     * Unix
     * Console/bash
+* CI
+  * Jenkins
 
