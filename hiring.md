@@ -40,6 +40,7 @@
 ### Backend
 https://github.com/wowworks-team/wowworks-php-developer-test-task
 ### Frontend
+<img src="/images/ww-frontend-ava.png" width="155" alt="Wowworks frontend">
 https://github.com/wowworks-team/wowworks-frontend-test-task
 
 ## Office location
