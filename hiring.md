@@ -38,6 +38,7 @@
 
 ## Тестовое задание
 ### Backend
+<img src="/images/wow.dev.png" width="155" alt="Wowworks backend">
 https://github.com/wowworks-team/wowworks-php-developer-test-task
 ### Frontend
 <img src="/images/ww-frontend-ava.png" width="155" alt="Wowworks frontend">
