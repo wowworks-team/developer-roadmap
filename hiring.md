@@ -1,3 +1,6 @@
+# Hiring
+![Wowworks logo](https://wowworks.ru/image/logo-wowworks.svg)
+
 ## Questionnaire
 ### Backend
 1) Насколько знакомы с ООП?
@@ -38,3 +41,10 @@
 https://github.com/wowworks-team/wowworks-php-developer-test-task
 ### Frontend
 https://github.com/wowworks-team/wowworks-frontend-test-task
+
+## Office location
+443086, Самара, улица Скляренко, дом 26, ОЦ "Панорама", офис 9008.
+Внизу нужно будет предъявить удостоверение личности и сказать, что в офис Wowworks на 9 этаж.
+
+## Contacts
+it@wowworks.ru
