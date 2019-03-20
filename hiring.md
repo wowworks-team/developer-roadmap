@@ -36,6 +36,7 @@
 
 ## Тестовое задание
 ### Android
+<img src="/images/ww-android.png" width="155" alt="Wowworks android">
 https://bitbucket.org/wowworks/android-test/src
 
 ### Backend
