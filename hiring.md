@@ -35,6 +35,9 @@
 13) Какие инструменты, которые могут использоваться в процессе тестирования, вам знакомы и работали ли вы с ними?
 
 ## Тестовое задание
+### Android
+https://bitbucket.org/wowworks/android-test/src
+
 ### Backend
 <img src="/images/wow.dev.png" width="155" alt="Wowworks backend">
 https://github.com/wowworks-team/wowworks-php-developer-test-task
@@ -42,9 +45,6 @@ https://github.com/wowworks-team/wowworks-php-developer-test-task
 ### Frontend
 <img src="/images/ww-frontend-ava.png" width="155" alt="Wowworks frontend">
 https://github.com/wowworks-team/wowworks-frontend-test-task
-
-### Android
-https://bitbucket.org/wowworks/android-test/src
 
 ## Office location
 443086, Самара, улица Скляренко, дом 26, ОЦ "Панорама", офис 9008.
