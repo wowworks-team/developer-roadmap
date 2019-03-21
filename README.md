@@ -61,4 +61,3 @@ Roadmap to becoming a web developer
 * https://edu.cbsystematics.com/ru/education/roadmap
 * https://github.com/kamranahmedse/developer-roadmap
 * https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
-* 
