@@ -15,7 +15,7 @@ Roadmap to becoming a web developer
 
 ### Frontend
 * Angular
-* React
+* React 
 
 ### Backend
 * Frameworks
@@ -57,3 +57,8 @@ Roadmap to becoming a web developer
 * CI
   * Jenkins
 
+## Links
+* https://edu.cbsystematics.com/ru/education/roadmap
+* https://github.com/kamranahmedse/developer-roadmap
+* https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
+* 
