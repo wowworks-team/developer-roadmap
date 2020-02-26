@@ -61,3 +61,9 @@ Roadmap to becoming a web developer
 * https://edu.cbsystematics.com/ru/education/roadmap
 * https://github.com/kamranahmedse/developer-roadmap
 * https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
+
+## Books
+* The "Gang of Four": Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software.
+* Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* Code Complete by Steve McConnell
+* Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck (Contributor), Don Roberts (Contributor), Erich Gamma (Foreword)
