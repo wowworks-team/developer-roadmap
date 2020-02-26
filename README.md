@@ -70,7 +70,7 @@ Roadmap to becoming a web developer
 * Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck (Contributor), Don Roberts (Contributor), Erich Gamma (Foreword)
 ### Optional
 * Extreme Programming Explained: Embrace Change by Kent Beck, Cynthia Andres
-* Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
-* The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.
-* The C Programming Language by Brian Kernigan and Dennis Ritchie
+* Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans (_difficult_)
+* The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr. (_history, classic_)
+* The C Programming Language by Brian Kernigan and Dennis Ritchie (_history, classic_)
 * Clean Architecture by Robert C. Martin
