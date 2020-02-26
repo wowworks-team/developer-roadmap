@@ -69,8 +69,8 @@ Roadmap to becoming a web developer
 * Code Complete by Steve McConnell
 * Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck (Contributor), Don Roberts (Contributor), Erich Gamma (Foreword)
 ### Optional
-* Экстремальное программирование. Разработка через тестирование
-* ddd evans
-* мифический человекомесяц
-* Язык программирования Авторы: Брайан Керниган, Деннис Ритчи
-* боб мартин чистая архитектура
+* Extreme Programming Explained: Embrace Change by Kent Beck, Cynthia Andres
+* Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
+* The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks Jr.
+* The C Programming Language by Brian Kernigan and Dennis Ritchie
+* Clean Architecture by Robert C. Martin
