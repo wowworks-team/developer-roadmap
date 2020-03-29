@@ -8,6 +8,17 @@ Roadmap to becoming a web developer
 * Клиентоориентированность
 * Коммуникации
 
+### Required
+* Scrum
+* Lean
+  * муды
+* ToC (Теория ограничений)
+* Antifragile
+* TPS
+* Kanban
+  * Toyota
+  * David Anderson's
+
 ## Tech Skills
 ### DevOps
 * Docker
