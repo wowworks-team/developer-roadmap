@@ -38,11 +38,26 @@ Roadmap to becoming a web developer
 * DI/IoC
 * Паттерны программирования
   * Банда 4-х
+  * MVC
+  * DTO
+  * Singleton
+  * Dependency injection
+  * Decorator
+  * Iterator
+  * ...
 * Алгоритмы
 * Парадигмы программирования
   * Императивная/Декларативная
   * ООП
+    * Классы/объекты
+    * Инкапсуляция/полиморфизм/наследование
+    * Абстрактный класс/интерфейс
   * Функциональное программирование
+* Принципы
+  * SOLID
+  * DRY
+  * KISS
+  * YAGNI
 * TDD
 * Tests
   * Unit
@@ -50,6 +65,10 @@ Roadmap to becoming a web developer
   * Acceptance
 * Базовые
   * Сети
+    * OSI
+    * TCP/IP
+    * UDP
+    * SSH
   * Комп
   * ОС
     * Unix
