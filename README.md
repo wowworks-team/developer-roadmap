@@ -43,8 +43,10 @@ Roadmap to becoming a web developer
 * Очереди
   * CRON
   * RabbitMQ
+* Elasticsearch
 
 ## Hard Skills
+* git
 * Менеджеры пакетов
 * DI/IoC
 * Паттерны программирования
