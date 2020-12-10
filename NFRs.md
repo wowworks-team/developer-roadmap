@@ -55,7 +55,7 @@
 
 * [NFR502] Goals are easy to accomplish quickly and with few or no user errors.
 
-More at Design Nonfunctional Requirements (NFRs) .
+More at Design Nonfunctional Requirements (NFRs).
 
 ## Security
 ### Access control
@@ -114,7 +114,7 @@ More at Design Nonfunctional Requirements (NFRs) .
 
 ## Design & architecture
 ### Reusability requirements
-* [NFR901] The ready-to-publish codebase should be uploaded to Github https://github.com/wowworks-team - Connect to preview 
+* [NFR901] The ready-to-publish codebase should be uploaded to Github https://github.com/wowworks-team. 
 
 * [NFR902] Any method used more than 3 times must be moved to a common class.
 
