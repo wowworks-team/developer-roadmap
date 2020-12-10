@@ -113,7 +113,7 @@ More at Design Nonfunctional Requirements (NFRs) .
 * [NFR806] Maximum log storage increase is 1GB per month.
 
 ## Design & architecture
-###Reusability requirements
+### Reusability requirements
 * [NFR901] The ready-to-publish codebase should be uploaded to Github https://github.com/wowworks-team - Connect to preview 
 
 * [NFR902] Any method used more than 3 times must be moved to a common class.
@@ -147,7 +147,7 @@ More at Design Nonfunctional Requirements (NFRs) .
 
 * [NFR1203] In all other cases, common protocols and industry standards are used.
 
-Supportability
+### Supportability
 * [NFR1301] The solution must be backup-ready.
 
 * [NFR1302] The codebase should be easy to read and review.
